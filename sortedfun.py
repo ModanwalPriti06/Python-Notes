@@ -1,0 +1,5 @@
+a=("b","g","a","e","c","f","d")
+x=sorted(a)
+print(x)
+x=sorted(a,reverse=True)
+print(x)
