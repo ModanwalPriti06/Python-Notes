@@ -9,3 +9,10 @@
 2. High-level Language : Python, JavaScript.
 3. Low-level Language : Assembly, C.
 4. Machine Language (Hardest) : Pure binary (0s and 1s).
+
+## Comment: 
+A comment is a note n your code, which is use for only readable form. Comment make code more readable, understandable and professional.
+```
+# - Single line comment
+/**/ - Multi line comment
+```
