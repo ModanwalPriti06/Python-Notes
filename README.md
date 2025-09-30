@@ -51,3 +51,16 @@ print("""You learning Python:       // three quotes denote new linw
 \t - React
 \t - SQL """);
 ```
+
+### Variable
+```
+x = 2
+print(x);  // output : 2
+x = 3
+print (x) // output : 3
+
+name = 'priti'
+print("My name is", name); //output: My name is priti
+```
+>[!Note]
+> when putting (,) python automatically keep space between words and sentence etc.
