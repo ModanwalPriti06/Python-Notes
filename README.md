@@ -47,7 +47,7 @@ print("   Learn Python   ");
 > print("You learning Python:\n\t- python\n\t- React\n\t- SQL")
 ```
 print("""You learning Python:       // three quotes denote new linw
-/t - python
-/t - React
-/t - SQL """);
+\t - python
+\t - React
+\t - SQL """);
 ```
