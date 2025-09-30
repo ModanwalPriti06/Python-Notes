@@ -27,8 +27,29 @@ Function is a collection of coherant task. A function is a seld defined block of
 2. Third party Function - Pandas, Numpy, Pyspark 
 3. User-Defined Function 
 
-### print():
+#### print():
 It's a built-in function that displays messages onthe output screen to communicate with users.
 ```
-print("Hii")
+print("Hii");
+print("--------");
+print("   Learn Python   ");
+```
+
+### Special Character
+1. \n - new line
+2. \t - tab
+3. \b - backspace
+4. \" - double quotes
+5. \' - Single quotes
+6. \\ - backslash
+
+> [!IMPORTANT]
+> print("You learning Python:\n\t- python\n\t- React\n\t- SQL")
+```
+print("""You learning Python:       // three quotes denote new linw
+/t - python
+/t - React
+/t - SQL """);
+```
+
 ```
