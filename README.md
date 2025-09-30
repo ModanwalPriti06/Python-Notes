@@ -51,5 +51,3 @@ print("""You learning Python:       // three quotes denote new linw
 /t - React
 /t - SQL """);
 ```
-
-```
