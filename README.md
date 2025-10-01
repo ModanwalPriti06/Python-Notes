@@ -17,7 +17,7 @@ A comment is a note n your code, which is use for only readable form. Comment ma
 /**/ - Multi line comment
 ```
 
-# Lecture: 4-5
+# Lecture: 4-5-6
 
 ### What is function
 Function is a collection of coherant task. A function is a seld defined block of code which can reuse multiple time on a same file.
@@ -64,3 +64,46 @@ print("My name is", name); //output: My name is priti
 ```
 >[!Note]
 > when putting (,) python automatically keep space between words and sentence etc.
+
+### input() function
+A built-in python function that stops your program to get user input.
+```
+name = input("Enter your name:")
+print("Your name is:", name)
+role = input("Enter your role:")
+print("You are:", role)
+```
+
+### Variable
+- python automatically detect data types
+```
+name = 'Priti' //string
+age = 22   // int
+isFlag = True   //boolean  
+```
+- Dynamic data type can change anytime
+
+### Data type 
+Categories of Data Types
+1. No Value
+  - Nothing
+  - Example: a = None
+2. Single Value:
+- Represented by a basket with a single fruit 🍎
+- Examples:
+  - int → 50
+  - float → 3.14
+  - str → "Hello"
+  - bool → True
+>[!Important]
+> “In Python, the boolean values are True and False"
+
+3. Multi Values (Data Structures / Collections)
+- Represented by a basket with multiple fruits 🍍🍎🍌
+- Examples:
+  - list → [1, 2, 3]
+  - set → {1, 2}
+  - tuple → ('a', 'b', 'c')
+  - dict → {'a': 1, 'b': 2, 'c': 3}
+<img width="676" height="496" alt="Screenshot 2025-10-01 at 10 33 17 PM" src="https://github.com/user-attachments/assets/afb2eb8d-f9c8-4f55-b208-44e976ad8f04" />
+
