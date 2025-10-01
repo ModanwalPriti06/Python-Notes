@@ -107,3 +107,4 @@ Categories of Data Types
   - dict → {'a': 1, 'b': 2, 'c': 3}
 <img width="676" height="496" alt="Screenshot 2025-10-01 at 10 33 17 PM" src="https://github.com/user-attachments/assets/afb2eb8d-f9c8-4f55-b208-44e976ad8f04" />
 
+<img width="665" height="402" alt="Screenshot 2025-10-01 at 10 36 01 PM" src="https://github.com/user-attachments/assets/36851c22-51db-4166-8baa-1b6eea5d68bd" />
