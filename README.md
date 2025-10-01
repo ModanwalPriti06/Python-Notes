@@ -17,7 +17,7 @@ A comment is a note n your code, which is use for only readable form. Comment ma
 /**/ - Multi line comment
 ```
 
-# Lecture: 4-5-6
+# Lecture: 4-5-6-7
 
 ### What is function
 Function is a collection of coherant task. A function is a seld defined block of code which can reuse multiple time on a same file.
@@ -137,3 +137,5 @@ value.method_name()
 (50).bit_length()   # Integer method → 6
 ```
 <img width="828" height="443" alt="Screenshot 2025-10-01 at 10 55 23 PM" src="https://github.com/user-attachments/assets/92e66a06-e23b-48c0-b862-0abefb856825" />
+
+# Lecture 8 Python Syring Function
