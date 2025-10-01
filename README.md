@@ -108,3 +108,32 @@ Categories of Data Types
 <img width="676" height="496" alt="Screenshot 2025-10-01 at 10 33 17 PM" src="https://github.com/user-attachments/assets/afb2eb8d-f9c8-4f55-b208-44e976ad8f04" />
 
 <img width="665" height="402" alt="Screenshot 2025-10-01 at 10 36 01 PM" src="https://github.com/user-attachments/assets/36851c22-51db-4166-8baa-1b6eea5d68bd" />
+
+## Diiference b/w Function and Method
+
+### Function
+- Independent block of reusable code.
+- Defined with def or are built-in like print(), type().
+- Not tied to any specific object or class.
+- Syntax
+```
+function_name(value)
+```
+Example:
+```
+print("hello")
+type(50)
+```
+### Methods
+- Functions that belong to an object/class.
+- Invoked using dot notation on a value (object).
+- Can access and modify the object’s data.
+- Syntax:
+```
+value.method_name()
+```
+```
+'hello'.upper()     # String method → HELLO
+(50).bit_length()   # Integer method → 6
+```
+<img width="828" height="443" alt="Screenshot 2025-10-01 at 10 55 23 PM" src="https://github.com/user-attachments/assets/92e66a06-e23b-48c0-b862-0abefb856825" />
