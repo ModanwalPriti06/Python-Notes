@@ -1,8 +1,11 @@
-# Lecture: 1-3
+<img width="1268" height="708" alt="Screenshot 2025-10-30 at 10 37 55 PM" src="https://github.com/user-attachments/assets/91016dc9-d9d6-4fce-98a0-25f6f57b6782" /># Lecture: 1-3
 
 <img width="1000" height="520" alt="image" src="https://github.com/user-attachments/assets/aaec2896-f434-4523-adc7-2acc4b766d7e" />
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/8178b351-2d31-4a64-957e-cc7cce993f04" />
+
+> [!NOTE]
+> Python is case sensitive
 
 ### Types of Languages (Easy → Hard)
 1. Natural Language (Easiest) : Spoken languages like English, Spanish, Hindi.
@@ -45,6 +48,7 @@ print("   Learn Python   ");
 
 > [!IMPORTANT]
 > print("You learning Python:\n\t- python\n\t- React\n\t- SQL")
+
 ```
 print("""You learning Python:       // three quotes denote new linw
 \t - python
@@ -138,4 +142,44 @@ value.method_name()
 ```
 <img width="828" height="443" alt="Screenshot 2025-10-01 at 10 55 23 PM" src="https://github.com/user-attachments/assets/92e66a06-e23b-48c0-b862-0abefb856825" />
 
-# Lecture 8 Python Syring Function
+# Lecture 8 Python Syring Function'
+
+<img width="668" height="408" alt="Screenshot 2025-10-30 at 10 38 28 PM" src="https://github.com/user-attachments/assets/4ac7864e-1d4d-4f89-b2b4-f78209813c3b" />
+```
+let str = "hello"
+print(len(str));
+
+text = """
+Pythin is very
+simple langugae
+it is very good.
+"""
+text.count('very');
+
+price = "28347{23"
+price.replace("{", "/");
+```
+
+## Concatanation
+```
+print("Hello" + " " + "World!");
+```
+## f String
+- A modern, super-easy way to format and build strings
+- The "f" stands for "formatted"
+- Lets you easily put variables and expressions directly inside string values
+```
+name = "priti"
+age = 24
+print(f"My name is {name} and I am {age} years old.")
+print(f"{{This is mee}}")
+```
+
+## Split()
+```
+text= " wnwe-qedqnkjed-qednqke-dew"
+print(text.split("-"));
+```
+
+
+
