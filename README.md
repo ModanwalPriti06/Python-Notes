@@ -225,5 +225,31 @@ text = "   Engineering".lstript()
 text = "Engineering ".rstript()
 
 text = "#####Hello####".strip("#")
+```
+- lower:
+```
+text =  "pytHon PrograMming"
+print(text.lower())
+```
+- upper:
+```
+text =  "pytHon PrograMming"
+print(text.upper())
+```
+## Searching
+- startswith():
+- endswith():
+- print("@" in email)
 
+- find(): find() is great when combined with other methods to add dynamics
+
+## Validation
+- isalpha(): checks if the string has only letters.
+```
+  print('USA1'.isalpha())   //false
+```
+- isnumeric(): checks if the string has only numbers.
+```
+  print('821374-1238412'.isnumeric()); //false
+  print('82,32'.isnumeric()); //false
 ```
