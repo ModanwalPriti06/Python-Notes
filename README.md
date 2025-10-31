@@ -145,6 +145,7 @@ value.method_name()
 # Lecture 8 Python Syring Function'
 
 <img width="668" height="408" alt="Screenshot 2025-10-30 at 10 38 28 PM" src="https://github.com/user-attachments/assets/4ac7864e-1d4d-4f89-b2b4-f78209813c3b" />
+
 ```
 let str = "hello"
 print(len(str));
@@ -164,10 +165,12 @@ price.replace("{", "/");
 ```
 print("Hello" + " " + "World!");
 ```
+
 ## f String
 - A modern, super-easy way to format and build strings
 - The "f" stands for "formatted"
 - Lets you easily put variables and expressions directly inside string values
+  
 ```
 name = "priti"
 age = 24
