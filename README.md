@@ -144,7 +144,7 @@ value.method_name()
 
 # Lecture 8 Python Syring Function'
 
-<img width="668" height="408" alt="Screenshot 2025-10-30 at 10 38 28 PM" src="https://github.com/user-attachments/assets/4ac7864e-1d4d-4f89-b2b4-f78209813c3b" />
+<img width="992" height="585" alt="Screenshot 2025-10-31 at 7 23 02 PM" src="https://github.com/user-attachments/assets/d3ffee17-d761-4244-8074-323aefc4d16a" />
 
 ```
 let str = "hello"
