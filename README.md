@@ -180,6 +180,47 @@ print(f"{{This is mee}}")
 text= " wnwe-qedqnkjed-qednqke-dew"
 print(text.split("-"));
 ```
+## Transaformation
+```
+print("Ha"*3) // hahaha
+print("="*20) // ====================
+```
 
+## Extraction
 
+| Element | Positive Index | Negative Index |
+| ------- | -------------- | -------------- |
+| 1       | 0              | -5             |
+| 2       | 1              | -4             |
+| 3       | 2              | -3             |
+| 4       | 3              | -2             |
+| 5       | 4              | -1             |
 
+### Slicing: 
+Slicing lets you extract a portion (or “slice”) of a sequence — like a list, tuple, or string — using index ranges.
+```
+sequence[start : stop : step]
+```
+- start → index where the slice begins (inclusive)
+- stop → index where the slice ends (exclusive)
+- step → how many elements to skip (optional)
+- Example
+```
+word = "Python"
+print(word[1:4])   # "yth"
+print(word[::-1])  # "nohtyP"
+```
+
+## Cleaning
+- strip(): clean left and right both side whitespace
+- lstrip(): clean left side whitespace
+- rstrip(): clean right side whitespace
+
+```
+text = " Engineering ".stript()
+text = "   Engineering".lstript()
+text = "Engineering ".rstript()
+
+text = "#####Hello####".strip("#")
+
+```
